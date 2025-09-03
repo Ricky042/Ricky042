@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there 
 
-<!--
-**Ricky042/Ricky042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- dark mode -->
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Ricky042&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky042&layout=compact&theme=dark#gh-dark-mode-only" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- light mode -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Ricky042&show_icons=true&theme=light#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky042&layout=compact&theme=light#gh-light-mode-only" />
+</a>
